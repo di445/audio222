@@ -11,7 +11,7 @@ jQuery(function ($) {
     if (supportsAudio) {
         var index = 0,
             playing = false;
-        mediaPath = 'http://gdriv.es/markhillard/Mythium/',
+        mediaPath = 'http://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3',
         extension = '.mp3',
         tracks = [{
             "track": 1,
